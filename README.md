@@ -21,7 +21,7 @@ Azure SQL Database: Stores schema details for validation reference.
 
 # How It Works:
 
-**File Drop**: When a file is dropped in the landing folder, a storage event trigger captures the fileName.
+**File Drop**: When a file is dropped in the landing folder, a storage event trigger in ADF captures the fileName and triggers the pipeline.
 
 **ADF Pipeline**: Passes the fileName parameter to a Databricks notebook.
 
