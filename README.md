@@ -42,3 +42,6 @@ Duplication in data.
 Date column names and formats.
 
 Moves the file to either the validated or rejected folder based on the checks.
+
+# Outcome: 
+An automated, secure, and efficient process for validating and managing incoming data files, ensuring data integrity and streamlining our workflow.
