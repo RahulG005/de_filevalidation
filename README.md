@@ -1,3 +1,6 @@
+# Project Overview: 
+The goal was to create a robust pipeline to validate incoming CSV files for schema conformity, including file name and date formats, and manage them efficiently.
+
 
 
 # Project Architecture
